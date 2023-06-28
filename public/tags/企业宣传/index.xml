@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>企业宣传 on KangKang</title>
+    <link>http://kangkangio.github.io/tags/%E4%BC%81%E4%B8%9A%E5%AE%A3%E4%BC%A0/</link>
+    <description>Recent content in 企业宣传 on KangKang</description>
+    <image>
+      <title>KangKang</title>
+      <url>http://kangkangio.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://kangkangio.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Dec 2018 11:30:03 +0000</lastBuildDate><atom:link href="http://kangkangio.github.io/tags/%E4%BC%81%E4%B8%9A%E5%AE%A3%E4%BC%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>首家！星系云科技IPFS实体店铺落户深圳 打造IPFS生态全产业链</title>
+      <link>http://kangkangio.github.io/articles/old2018-01/</link>
+      <pubDate>Mon, 10 Dec 2018 11:30:03 +0000</pubDate>
+      
+      <guid>http://kangkangio.github.io/articles/old2018-01/</guid>
+      <description>打通了互联网底层协议IPFS产业链
+本文发布于知乎🔗</description>
+    </item>
+    
+  </channel>
+</rss>

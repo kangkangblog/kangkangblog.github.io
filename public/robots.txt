@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://kangkangio.github.io/sitemap.xml

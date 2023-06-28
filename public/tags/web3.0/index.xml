@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web3.0 on KangKang</title>
+    <link>http://kangkangio.github.io/tags/web3.0/</link>
+    <description>Recent content in Web3.0 on KangKang</description>
+    <image>
+      <title>KangKang</title>
+      <url>http://kangkangio.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://kangkangio.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jan 2019 11:30:03 +0000</lastBuildDate><atom:link href="http://kangkangio.github.io/tags/web3.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>正在爆发的互联网革命</title>
+      <link>http://kangkangio.github.io/articles/old2019-01/</link>
+      <pubDate>Tue, 08 Jan 2019 11:30:03 +0000</pubDate>
+      
+      <guid>http://kangkangio.github.io/articles/old2019-01/</guid>
+      <description>新一代互联网究竟是什么？
+本文发布于知乎🔗</description>
+    </item>
+    
+    <item>
+      <title>区块链时代的Web3.0和DApp的历史使命</title>
+      <link>http://kangkangio.github.io/articles/old2019-02/</link>
+      <pubDate>Mon, 07 Jan 2019 11:30:03 +0000</pubDate>
+      
+      <guid>http://kangkangio.github.io/articles/old2019-02/</guid>
+      <description>互联网已经失控了!
+而Web3.0的出现，能拯救失控的人类信息网络吗？
+本文由区块链媒体“链得得”转发 文章链接🔗</description>
+    </item>
+    
+  </channel>
+</rss>
