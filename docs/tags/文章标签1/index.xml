@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>文章标签1 on KangKang</title>
+    <link>http://kangkangblog.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/</link>
+    <description>Recent content in 文章标签1 on KangKang</description>
+    <image>
+      <title>KangKang</title>
+      <url>http://kangkangblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://kangkangblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jun 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://kangkangblog.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>为什么说 AI 是人的意志的延伸？</title>
+      <link>http://kangkangblog.github.io/mdtemplate/md%E6%96%87%E6%A1%A3%E6%A8%A1%E6%9D%BF/</link>
+      <pubDate>Fri, 05 Jun 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://kangkangblog.github.io/mdtemplate/md%E6%96%87%E6%A1%A3%E6%A8%A1%E6%9D%BF/</guid>
+      <description>标题 正文正文正文正文正文正文 正文正文正文正文正文正文
+引用
+引用
+链接文字 无序列表：
+列表项1 列表项2 列表项3 有序列表：
+有序列表项1 有序列表项2 有序列表项3 强调 斜体
+代码块 nano html code
+颜色 #RRGGBB</description>
+    </item>
+    
+  </channel>
+</rss>
